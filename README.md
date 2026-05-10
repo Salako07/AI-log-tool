@@ -1,7 +1,7 @@
 # AI-Powered Log Threat Hunting Lab
 
-### Author: Kyrian Onyeagusi
-[LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi) | [Email](mailto:kyrianoc18@gmail.com) 
+### Author: Salako Olamide 
+[LinkedIn](https://www.linkedin.com/in/olamide-salako-952bb7207/) | [Email](mailto:salako.olamide2001@gmail.com) 
 
 
 ### Focus: Semantic Threat Detection in Logs using OpenAI Embeddings
